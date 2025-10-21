@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{53C4F27B-E6FB-4D08-9146-813C04C9DFDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enums", "enums\enums.csproj", "{6FC17A74-E985-4DF3-86BE-1CB2B847CF64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskChallenge", "TaskPrioritiser2\TaskChallenge.csproj", "{0EBE3CF1-6A7C-4E02-AB3A-631E4D782977}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{53C4F27B-E6FB-4D08-9146-813C04C9DFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53C4F27B-E6FB-4D08-9146-813C04C9DFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53C4F27B-E6FB-4D08-9146-813C04C9DFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC17A74-E985-4DF3-86BE-1CB2B847CF64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC17A74-E985-4DF3-86BE-1CB2B847CF64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC17A74-E985-4DF3-86BE-1CB2B847CF64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC17A74-E985-4DF3-86BE-1CB2B847CF64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EBE3CF1-6A7C-4E02-AB3A-631E4D782977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBE3CF1-6A7C-4E02-AB3A-631E4D782977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBE3CF1-6A7C-4E02-AB3A-631E4D782977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBE3CF1-6A7C-4E02-AB3A-631E4D782977}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
